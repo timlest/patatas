@@ -16,6 +16,10 @@ and open the template in the editor.
                     echo "hola";
                     echo "que tal=?";                 
                 }
+                function segonmetode(){
+                    
+                }
+                
             }
         ?>
     </body>
