@@ -19,6 +19,10 @@ and open the template in the editor.
                 function segonmetode(){
                     
                 }
+                function tercermetode(){
+                    
+                }
+                
                 
             }
         ?>
