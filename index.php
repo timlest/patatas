@@ -22,6 +22,9 @@ and open the template in the editor.
                 function tercermetode(){
                     
                 }
+                function quartmetode(){
+                    
+                }
                 
                 
             }
