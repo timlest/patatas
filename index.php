@@ -26,7 +26,7 @@ and open the template in the editor.
                     
                 }
                 function fantasma(){
-                    echo 'patatas y fantasmas';
+                    echo '11 fantasmas';
                                         
                 }
                 
