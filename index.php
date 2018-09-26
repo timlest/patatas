@@ -14,8 +14,7 @@ and open the template in the editor.
             class patatas{
                 function __construct() {
                     echo "hola";
-                    
-                    
+                    echo "que tal=?";                 
                 }
             }
         ?>
