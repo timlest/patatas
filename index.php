@@ -25,6 +25,7 @@ and open the template in the editor.
                 function quartmetode(){
                     
                 }
+                function fantasma()
                 
                 
             }
